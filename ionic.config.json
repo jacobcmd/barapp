@@ -1,0 +1,7 @@
+{
+  "name": "barapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
